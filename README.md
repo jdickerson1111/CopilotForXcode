@@ -1,6 +1,6 @@
-# <img align="center" height="70" src="./Docs/Images/AppIcon.png"/> GitHub Copilot for Xcode
+GitHub Copilot for Xcode is a tool that helps developers write code more efficiently. It provides suggestions and code completions as you type, helping you save time and reduce errors.
 
-[GitHub Copilot](https://github.com/features/copilot) for Xcode is the leading AI coding assistant for Swift, Objective-C and iOS/macOS development. It delivers intelligent Completions, Chat, and Code Review—plus advanced features like Agent Mode, Next Edit Suggestions, MCP Registry, and Copilot Vision to make Xcode development faster and smarter.
+[GitHub Copilot](https://github.com/features/copilot) for Xcode is the leading AI coding assistant for Swift, Objective-C, and iOS/macOS development. It offers intelligent Completions, Chat, and Code Review features, along with advanced capabilities such as Agent Mode, Next Edit Suggestions, MCP Registry, and Copilot Vision, which collectively enhance the speed and intelligence of Xcode development.
 
 ## Chat
 
@@ -153,3 +153,5 @@ Thank you to @intitni for creating the original project that this is based on.
 
 Attributions can be found under About when running the app or in
 [Credits.rtf](./Copilot%20for%20Xcode/Credits.rtf).
+
+
